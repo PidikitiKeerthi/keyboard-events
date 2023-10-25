@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h1 {
+    color: #333;
+}
+
+#inputField {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+}
